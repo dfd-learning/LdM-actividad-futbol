@@ -44,6 +44,7 @@ main{
 
 .equipo {
     height: 490px;
+    width: 350px;
     margin: 20px;
     display: inline-block;
     border-radius: 10px;
